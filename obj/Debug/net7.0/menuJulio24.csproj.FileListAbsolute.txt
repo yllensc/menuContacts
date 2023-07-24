@@ -1,0 +1,15 @@
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/bin/Debug/net7.0/menuJulio24
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/bin/Debug/net7.0/menuJulio24.deps.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/bin/Debug/net7.0/menuJulio24.runtimeconfig.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/bin/Debug/net7.0/menuJulio24.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/bin/Debug/net7.0/menuJulio24.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/obj/Debug/net7.0/menuJulio24.csproj.AssemblyReference.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/obj/Debug/net7.0/menuJulio24.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/obj/Debug/net7.0/menuJulio24.AssemblyInfoInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/obj/Debug/net7.0/menuJulio24.AssemblyInfo.cs
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/obj/Debug/net7.0/menuJulio24.csproj.CoreCompileInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/obj/Debug/net7.0/menuJulio24.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/obj/Debug/net7.0/refint/menuJulio24.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/obj/Debug/net7.0/menuJulio24.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/obj/Debug/net7.0/menuJulio24.genruntimeconfig.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/obj/Debug/net7.0/ref/menuJulio24.dll
