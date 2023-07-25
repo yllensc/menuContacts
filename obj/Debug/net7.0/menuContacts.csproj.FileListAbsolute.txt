@@ -13,3 +13,18 @@
 /home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/Debug/net7.0/menuContacts.pdb
 /home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/Debug/net7.0/menuContacts.genruntimeconfig.cache
 /home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/Debug/net7.0/ref/menuContacts.dll
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\bin\Debug\net7.0\menuContacts.exe
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\bin\Debug\net7.0\menuContacts.deps.json
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\bin\Debug\net7.0\menuContacts.runtimeconfig.json
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\bin\Debug\net7.0\menuContacts.dll
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\bin\Debug\net7.0\menuContacts.pdb
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\obj\Debug\net7.0\menuContacts.csproj.AssemblyReference.cache
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\obj\Debug\net7.0\menuContacts.GeneratedMSBuildEditorConfig.editorconfig
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\obj\Debug\net7.0\menuContacts.AssemblyInfoInputs.cache
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\obj\Debug\net7.0\menuContacts.AssemblyInfo.cs
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\obj\Debug\net7.0\menuContacts.csproj.CoreCompileInputs.cache
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\obj\Debug\net7.0\menuContacts.dll
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\obj\Debug\net7.0\refint\menuContacts.dll
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\obj\Debug\net7.0\menuContacts.pdb
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\obj\Debug\net7.0\menuContacts.genruntimeconfig.cache
+D:\DATOS DE USUARIO\Documents\Campus\c#\menuContacts\obj\Debug\net7.0\ref\menuContacts.dll
