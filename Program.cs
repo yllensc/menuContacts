@@ -23,6 +23,13 @@ do
     {
         DeleteContact();
     }
+    else if ((Menu)menuOption == Menu.Exit)
+    {
+        Console.WriteLine("Bye,bye");
+    }
+    else {
+        Console.WriteLine("No tenemos esta opción, revisa el menú");
+    }
 
 } while ((Menu)menuOption != Menu.Exit);
 
@@ -90,9 +97,9 @@ bool ShowContacts(){
 
 void ListContacts(){
     Console.WriteLine("----------------------------------------");
-
+    Console.WriteLine("#- Nombre - Teléfono - Favoritos\n");
     var indexContact = 0;
-    ContactList.ForEach(contact => Console.WriteLine($"{++indexContact}. {contact.Name} - {contact.Telephone} - {contact.MarkImportant}"));
+    ContactList.ForEach(contact => Console.WriteLine($"{++indexContact}.{contact.Name} - {contact.Telephone} - {contact.MarkImportant}"));
 
     Console.WriteLine("----------------------------------------");
 
