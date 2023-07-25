@@ -1,4 +1,4 @@
-﻿//Agregar entradaMostrar todas las entradasMarcar entrada como importanteEliminar entrada Salir
+//Agregar entradaMostrar todas las entradasMarcar entrada como importanteEliminar entrada Salir
 int menuOption = 0;
 
 //list of contacts 
@@ -54,10 +54,10 @@ void AddContact()
     try
     {
         Console.WriteLine("Ingrese el nombre del contacto: ");
-        string nameContact = Console.ReadLine();
+        string ? nameContact = Console.ReadLine();
 
         Console.WriteLine("Ingrese el teléfono del contacto: ");
-        int telContact = Convert.ToInt32(Console.ReadLine());
+        long telContact = Int64.Parse(Console.ReadLine());
 
         if (!string.IsNullOrEmpty(nameContact) && telContact > 0)
         {
@@ -112,7 +112,7 @@ void MarkContactImportant(){
         // Show current contacts
         if(ShowContacts()){
         Console.WriteLine("Ingrese el número del contacto para agregar a favoritos: ");
-        string contactIndex = Console.ReadLine();
+        string ? contactIndex = Console.ReadLine();
         // position to mark
         int indexToUpdate = Convert.ToInt32(contactIndex) - 1;
 
@@ -150,7 +150,7 @@ void DeleteContact(){
         // Show current contacts
         if(ShowContacts()){
         Console.WriteLine("Ingrese el número del contacto a eliminar: ");
-        string contactIndex = Console.ReadLine();
+        string ? contactIndex = Console.ReadLine();
         // position to delete
         int indexToRemove = Convert.ToInt32(contactIndex) - 1;
 
@@ -190,7 +190,7 @@ public enum Menu{
 
 public class Contact {
     public string? Name;
-    public int Telephone;
+    public long Telephone;
     public string? MarkImportant;
 }
 
