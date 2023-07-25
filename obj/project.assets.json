@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/menuJulio24.csproj",
-      "projectName": "menuJulio24",
-      "projectPath": "/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/menuJulio24.csproj",
+      "projectUniqueName": "/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/menuContacts.csproj",
+      "projectName": "menuContacts",
+      "projectPath": "/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/menuContacts.csproj",
       "packagesPath": "/home/arteN01-060/.nuget/packages/",
-      "outputPath": "/home/arteN01-060/Documents/c#r3yllensantamaria/menuJulio24/obj/",
+      "outputPath": "/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/arteN01-060/.nuget/NuGet/NuGet.Config"

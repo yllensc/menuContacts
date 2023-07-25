@@ -1,0 +1,15 @@
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/bin/Debug/net7.0/menuContacts
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/bin/Debug/net7.0/menuContacts.deps.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/bin/Debug/net7.0/menuContacts.runtimeconfig.json
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/bin/Debug/net7.0/menuContacts.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/bin/Debug/net7.0/menuContacts.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/Debug/net7.0/menuContacts.csproj.AssemblyReference.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/Debug/net7.0/menuContacts.GeneratedMSBuildEditorConfig.editorconfig
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/Debug/net7.0/menuContacts.AssemblyInfoInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/Debug/net7.0/menuContacts.AssemblyInfo.cs
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/Debug/net7.0/menuContacts.csproj.CoreCompileInputs.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/Debug/net7.0/menuContacts.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/Debug/net7.0/refint/menuContacts.dll
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/Debug/net7.0/menuContacts.pdb
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/Debug/net7.0/menuContacts.genruntimeconfig.cache
+/home/arteN01-060/Documents/c#r3yllensantamaria/menuContacts/obj/Debug/net7.0/ref/menuContacts.dll
